@@ -1,0 +1,20 @@
+PODS:
+  - JTAppleCalendar (8.0.5)
+  - SkyFloatingLabelTextField (4.0.0)
+
+DEPENDENCIES:
+  - JTAppleCalendar
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - JTAppleCalendar
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  JTAppleCalendar: 16c6501b22cb27520372c28b0a2e0b12c8d0cd73
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+
+PODFILE CHECKSUM: 6cec7dcf4fcab7e662713058b3f50348acf3c6d0
+
+COCOAPODS: 1.14.3
