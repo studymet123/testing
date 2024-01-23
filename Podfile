@@ -8,6 +8,7 @@ target 'firstProject' do
   # Pods for firstProject
  	pod 'JTAppleCalendar'
 	pod 'SkyFloatingLabelTextField'
+	pod 'FSCalendar'
 
 
 
